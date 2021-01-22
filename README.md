@@ -345,7 +345,7 @@ If you have a better recommendation for C++, please let me know. Looking for a c
 
 ### Java
 
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+- [X] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
     - videos with book content (and Sedgewick!) on coursera:
         - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
         - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
@@ -475,8 +475,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [X] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [X] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
     - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
